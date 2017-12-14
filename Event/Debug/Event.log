@@ -1,0 +1,11 @@
+﻿  Client.cpp
+  正在生成代码...
+  正在编译...
+  main.cpp
+f:\event\main.cpp(7): warning C4005: “WIN32”: 宏重定义
+  f:\event\main.cpp(7): note: 命令行参数: 参见前面的“WIN32”定义
+  Server.cpp
+  正在生成代码...
+MSVCRTD.lib(initializers.obj) : warning LNK4098: 默认库“libcmt.lib”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  Event.vcxproj -> F:\Event\Debug\Event.exe
+  Event.vcxproj -> F:\Event\Debug\Event.pdb (Partial PDB)
